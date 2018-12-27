@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    padding: 0;
+}
+.navigation-bar{
+    border-bottom: 1px solid #c7c7c7;
+    padding: 20px 0 0 20px;
+}
+.searchbar-container{
+	width: 630px;
+	height: 44px;
+	border-radius: 24px;
+	border: 1px solid #dfe1e5;
+    margin-left: 25px;
+    display: flex;
+    
+}
+.searchbar-container input {
+	width: 482px;
+	height: 34px;
+	border: 0;
+	padding: 0;
+}
